@@ -67,7 +67,5 @@ namespace NET_Core_API_Exception_Handling.Middleware
 
             return context.Response.WriteAsync(result);
         }
-
-
     }
 }

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\jber5\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jber5\\.nuget\\packages"
+      "/Users/francisdecena/.dotnet/store/|arch|/|tfm|",
+      "/Users/francisdecena/.nuget/packages"
     ]
   }
 }
